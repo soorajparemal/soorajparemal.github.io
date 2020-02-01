@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eat-app/static/css/main.16e18a48.chunk.css",
+    "main.js": "/eat-app/static/js/main.5450f488.chunk.js",
+    "main.js.map": "/eat-app/static/js/main.5450f488.chunk.js.map",
+    "runtime-main.js": "/eat-app/static/js/runtime-main.3c97498e.js",
+    "runtime-main.js.map": "/eat-app/static/js/runtime-main.3c97498e.js.map",
+    "static/js/2.b04a5b54.chunk.js": "/eat-app/static/js/2.b04a5b54.chunk.js",
+    "static/js/2.b04a5b54.chunk.js.map": "/eat-app/static/js/2.b04a5b54.chunk.js.map",
+    "index.html": "/eat-app/index.html",
+    "precache-manifest.262aad56a3a18ca53168c52a47b34214.js": "/eat-app/precache-manifest.262aad56a3a18ca53168c52a47b34214.js",
+    "service-worker.js": "/eat-app/service-worker.js",
+    "static/css/main.16e18a48.chunk.css.map": "/eat-app/static/css/main.16e18a48.chunk.css.map",
+    "static/js/2.b04a5b54.chunk.js.LICENSE": "/eat-app/static/js/2.b04a5b54.chunk.js.LICENSE",
+    "static/media/logo.svg": "/eat-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c97498e.js",
+    "static/js/2.b04a5b54.chunk.js",
+    "static/css/main.16e18a48.chunk.css",
+    "static/js/main.5450f488.chunk.js"
+  ]
+}
